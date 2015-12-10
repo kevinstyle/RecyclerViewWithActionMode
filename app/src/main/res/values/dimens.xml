@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="gallery_item_image_margin">1dp</dimen>
+    <dimen name="item_filename_padding">3dp</dimen>
+
+    <dimen name="dsrv_defaultHotspotHeight">56dp</dimen>
+</resources>
